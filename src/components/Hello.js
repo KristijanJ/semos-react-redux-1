@@ -10,7 +10,7 @@ class Hello extends Component {
   render() {
     return (
       <div>
-        <h2>Kaj si be {this.props.name}</h2>
+        <h2>Hello {this.props.name}</h2>
       </div>
     )
   }
